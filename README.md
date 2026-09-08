@@ -1,1 +1,4 @@
 # assignment-1
+# Why are we here?
+
+As a design student with no coding background, I used to see programming as very logic and different from my focus on visual design and storytelling. Today, with generative AI capable of writing code on demand, the motivation for designers to learn programming seems even less obvious. However, Dylan Beattie’s talk, The Art of Code, completely shifted my perspective. Beattie demonstrates that code is fundamentally an artistic medium and a form of creative expression, not mere technical labor. While AI can handle syntax execution, it cannot replace computational thinking. For non-technical designers, learning to code is about exploring new frontiers of design and enhancing the appeal of my creative work.
