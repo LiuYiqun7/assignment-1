@@ -15,3 +15,6 @@
   **Changes:**
   Modified the main paragraph and aCombined teamLab's practice with industry feedback.I asked senior designers about it, and they pointed out that having technical literacy is incredibly useful. It allows us to grasp engineering constraints, communicate better with developers, and give precise instructions to AI.
   
+  ## Concluding Paragraphs
+- **Reflection:**
+  - Emphasizing that mastering programming can not only enhance the implementation and communication efficiency of design, but also allows designers in the AI era to transform code into a creative medium.
