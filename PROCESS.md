@@ -18,3 +18,5 @@
   ## Concluding Paragraphs
 - **Reflection:**
   - Emphasizing that mastering programming can not only enhance the implementation and communication efficiency of design, but also allows designers in the AI era to transform code into a creative medium.
+   **Changes:**
+  Updated the references.
