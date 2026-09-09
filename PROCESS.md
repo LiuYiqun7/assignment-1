@@ -12,3 +12,6 @@
   - Used AI to brainstorm how specific examples from *The Art of Code* illustrate the transition from "drawing static outcomes" to "designing underlying rules and logic."
 - **Reflection:**
   - Highlighted how understanding programming empowers designers to act as directors who guide AI tools and automate asset processing.
+  **Changes:**
+  Modified the main paragraph and aCombined teamLab's practice with industry feedback.I asked senior designers about it, and they pointed out that having technical literacy is incredibly useful. It allows us to grasp engineering constraints, communicate better with developers, and give precise instructions to AI.
+  
