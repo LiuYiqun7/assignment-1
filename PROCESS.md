@@ -18,5 +18,14 @@
   ## Concluding Paragraphs
 - **Reflection:**
   - Emphasizing that mastering programming can not only enhance the implementation and communication efficiency of design, but also allows designers in the AI era to transform code into a creative medium.
+  
    **Changes:**
   Updated the references.
+
+## AI Collaboration & Refinement Strategy
+
+**Kept:**
+- Retaining the overall structural layout and paragraph flow generated based on my initial outline, as it successfully organized my personal narrative and course requirements logically.
+
+**Rejected & Modified:**
+- Rejecting vague AI-generated sentences. I replaced them with specific personal reflections, concrete coursework examples, and my own design perspectives.
