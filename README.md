@@ -18,3 +18,6 @@ Ultimately, learning to code is about expanding creative freedom, not worrying a
 * **Beattie, D.** (2020). *The Art of Code* [Video]. NDC Conferences. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
 * **McKee, A.** (2014). The'spectacular' mode of address. *International Journal of Cultural Studies*, 17(5), 415–432.
 * **teamLab.** (n.d.). *teamLab: Artworks and Interactive Installations*. https://www.teamlab.art/
+
+
+Testing Git workflow
